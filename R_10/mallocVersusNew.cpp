@@ -7,7 +7,6 @@ struct Record
   std::string name;
 };
 
-
 int main()
 {
 
